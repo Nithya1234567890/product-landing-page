@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Product Landing Page",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Product Landing Page"
+	}
+}
